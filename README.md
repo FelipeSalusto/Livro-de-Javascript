@@ -1,3 +1,3 @@
-## Livro: Lógica de Programação e Algoritmos com Javascript.
-![javacript](https://github.com/user-attachments/assets/72e9005a-7e6b-4b01-8845-9bfa129914f2)
+<h2>Livro: Lógica de Programação e Algoritmos com Javascript.</h2>
 
+<img src="img/js.jpg" width="300px">
