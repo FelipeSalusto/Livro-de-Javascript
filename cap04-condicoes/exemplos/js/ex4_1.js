@@ -15,6 +15,9 @@ frm.addEventListener("submit", (e) => {
   if (media >= 7) {
     resp2.innerText = `Parabéns ${nome}. Você foi aprovado(a)!`;
     resp2.style.color = "green";
+  } else if (media >= 5) {
+    resp2.innerText = `Atenção ${nome}. Você está de recuperação!`;
+    resp2.style.color = "orange";
   } else {
     resp2.innerText = `Ops ${nome}. Você foi reprovado(a)!`;
     resp2.style.color = "red";
