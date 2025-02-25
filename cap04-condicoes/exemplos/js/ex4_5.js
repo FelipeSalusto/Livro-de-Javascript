@@ -9,6 +9,7 @@ frm.addEventListener("submit", (e) => {
   const raiz = Math.sqrt(numero);
 
   if (Number.isInteger(raiz)) {
+    // if (raiz % 1 == 0)
     resp.innerText = `Raiz ${raiz}`;
   } else {
     resp.innerText = `Não há raiz exata para ${numero}`;
